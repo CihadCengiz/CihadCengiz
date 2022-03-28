@@ -43,5 +43,5 @@
 
 </details>
 
-[website]: https://cihadcengiz.com
+[website]: https://cihadcengiz.github.io
 [linkedin]: https://linkedin.com/in/ccengizz
