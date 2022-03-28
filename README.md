@@ -1,6 +1,6 @@
 ### Hi there, I'm Cihad 👋 
 
-[![Website](https://img.shields.io/website?label=cihadcengiz.com&style=for-the-badge&url=https://cihadcengiz.com)](https://cihadcengiz.com)
+[![Website](https://img.shields.io/website?label=cihadcengiz.com&style=for-the-badge&url=https://cihadcengiz.github.io)](https://cihadcengiz.github.io)
 
 ## I'm a Web Developer!
 
