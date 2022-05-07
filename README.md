@@ -1,6 +1,6 @@
 ### Hi there, I'm Cihad 👋 
 
-[![Website](https://img.shields.io/website?label=cihadcengiz.github.io&style=for-the-badge&url=https://cihadcengiz.github.io)](https://cihadcengiz.github.io)
+[![Website](https://img.shields.io/website?label=cihadcengiz.com&style=for-the-badge&url=https://www.cihadcengiz.com)](https://www.cihadcengiz.com)
 
 ## I'm a Web Developer!
 
@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="cihadcengiz.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="cihadcengiz.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="cihadcengiz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
