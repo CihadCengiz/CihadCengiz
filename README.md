@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=cihadcengiz.com&style=for-the-badge&url=https://www.cihadcengiz.com)](https://www.cihadcengiz.com)
 
-## I'm a Web Developer!
+## I'm a Full Stack Developer!
 
 - 🎮 I’m currently working on my indie game.
 - 🥅 2022 Goals: Contribute more to Open Source projects
