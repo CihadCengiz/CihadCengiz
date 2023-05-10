@@ -4,10 +4,6 @@
 
 ## I'm a Full Stack Developer!
 
-- 🎮 I’m currently working on my indie game.
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play basketball and travel
-
 ### Connect with me:
 
 [<img align="left" alt="cihadcengiz.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
